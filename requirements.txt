@@ -64,7 +64,7 @@ pydotplus==2.0.2
 Pygments==2.6.1
 PyMuPDF==1.16.16
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 pytz==2019.3
